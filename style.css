@@ -1,0 +1,18 @@
+body {
+    background: ;
+
+}
+
+h1 {
+    @font-face {
+        font-family:"Name-Of-Font";
+        src: url("yourfont.ttf") format("truetype");
+      }
+    
+}
+
+ul {
+    font-family: ;
+    font-size: ;
+    
+}
